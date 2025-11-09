@@ -26,5 +26,5 @@ once it's on the clipboard you can open it in an external player like VLC
 
 The scipt does use the sites own API's
 
-And it's a user script so you need a userscript manager 
-this script is made and tested with Tampermonkey and firefox
+And it's a user script so you need a userscript manager. 
+This script is made and tested with Tampermonkey and firefox
